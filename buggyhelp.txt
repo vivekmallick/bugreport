@@ -1,0 +1,12 @@
+Buggy : To keep track of bugs
+
+Commands
+
+add           : adds a new data entry.
+list          : lists all the softwares.
+show          : shows the details of a particular software.
+changeStatus  : cycles between the status' corresponding to software fixes:
+                the states are: Registered, Confirmed, InProcess and Fixed.
+setSeverity   : Set the severity of the bug for better attention.
+editLongDesc  : Edit the long description.
+help          : Displays this help.
